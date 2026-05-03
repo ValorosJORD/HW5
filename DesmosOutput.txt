@@ -1,0 +1,54 @@
+p=\left(t\to t+\frac{1}{30}\left\{0\le t\le\left(l-1\right)\right\}\right),\left(t\to0\left\{t>\left(l-1\right)\right\}\right)
+r=\frac{750}{30}
+A_{1}=\left[6\right]
+\operatorname{tone}\left(f\left(A_{1}\right)\left\{0.000000\le t<2.000000\right\}\right)
+A_{2}=\left[1\right]
+\operatorname{tone}\left(f\left(A_{2}\right)\left\{0.000000\le t<2.000000\right\}\right)
+A_{3}=\left[-2\right]
+\operatorname{tone}\left(f\left(A_{3}\right)\left\{0.000000\le t<2.000000\right\}\right)
+A_{4}=\left[-9\right]
+\operatorname{tone}\left(f\left(A_{4}\right)\left\{0.000000\le t<2.000000\right\}\right)
+A_{5}=\left[3\right]
+\operatorname{tone}\left(f\left(A_{5}\right)\left\{2.000000\le t<4.000000\right\}\right)
+A_{6}=\left[6\right]
+\operatorname{tone}\left(f\left(A_{6}\right)\left\{2.000000\le t<4.000000\right\}\right)
+A_{7}=\left[-2\right]
+\operatorname{tone}\left(f\left(A_{7}\right)\left\{2.000000\le t<4.000000\right\}\right)
+A_{8}=\left[-13\right]
+\operatorname{tone}\left(f\left(A_{8}\right)\left\{2.000000\le t<4.000000\right\}\right)
+A_{9}=\left[-11\right]
+\operatorname{tone}\left(f\left(A_{9}\right)\left\{4.000000\le t<5.437500\right\}\right)
+A_{10}=\left[-2\right]
+\operatorname{tone}\left(f\left(A_{10}\right)\left\{4.000000\le t<5.437500\right\}\right)
+A_{11}=\left[5\right]
+\operatorname{tone}\left(f\left(A_{11}\right)\left\{4.000000\le t<5.437500\right\}\right)
+A_{12}=\left[-6\right]
+\operatorname{tone}\left(f\left(A_{12}\right)\left\{4.000000\le t<5.437500\right\}\right)
+A_{13}=\left[-11\right]
+\operatorname{tone}\left(f\left(A_{13}\right)\left\{5.500000\le t<6.437500\right\}\right)
+A_{14}=\left[-2\right]
+\operatorname{tone}\left(f\left(A_{14}\right)\left\{5.500000\le t<6.437500\right\}\right)
+A_{15}=\left[5\right]
+\operatorname{tone}\left(f\left(A_{15}\right)\left\{5.500000\le t<6.437500\right\}\right)
+A_{16}=\left[-6\right]
+\operatorname{tone}\left(f\left(A_{16}\right)\left\{5.500000\le t<6.437500\right\}\right)
+A_{17}=\left[-11\right]
+\operatorname{tone}\left(f\left(A_{17}\right)\left\{6.500000\le t<6.937500\right\}\right)
+A_{18}=\left[-6\right]
+\operatorname{tone}\left(f\left(A_{18}\right)\left\{6.500000\le t<6.937500\right\}\right)
+A_{19}=\left[-2\right]
+\operatorname{tone}\left(f\left(A_{19}\right)\left\{6.500000\le t<6.937500\right\}\right)
+A_{20}=\left[5\right]
+\operatorname{tone}\left(f\left(A_{20}\right)\left\{6.500000\le t<6.937500\right\}\right)
+A_{21}=\left[-13\right]
+\operatorname{tone}\left(f\left(A_{21}\right)\left\{7.000000\le t<8.000000\right\}\right)
+A_{22}=\left[-1\right]
+\operatorname{tone}\left(f\left(A_{22}\right)\left\{7.000000\le t<8.000000\right\}\right)
+A_{23}=\left[-6\right]
+\operatorname{tone}\left(f\left(A_{23}\right)\left\{7.000000\le t<8.000000\right\}\right)
+A_{24}=\left[3\right]
+\operatorname{tone}\left(f\left(A_{24}\right)\left\{7.000000\le t<8.000000\right\}\right)
+l=12
+t=0
+f\left(x\right)=\frac{o}{12}440\cdot2^{\frac{x}{12}}
+o=12
